@@ -1,39 +1,44 @@
 const resume = {
-    summary: 'Lorem ipsum dolor sit amet, consectetur **adipiscing** elit. Sed dapibus hendrerit fringilla. Nam sit amet felis vel velit aliquam rhoncus porttitor eu erat. Aenean volutpat porttitor hendrerit. Cras sodales magna lobortis mauris accumsan, non efficitur ligula varius. Sed tellus eros, iaculis non tempus ac, porttitor id velit. Vivamus felis mauris, pretium mollis turpis sit amet, vulputate vestibulum purus. Nulla ac eleifend nulla. Curabitur vitae velit ante.',
+    summary: 'As a **Software Engineer** my main **goal** is to satisfy users requirements, succeed on my teams metrics and goals, as well as create a clean workspace for everyone, I am always open to hear cool and new ways of creating software. I believe that the most important part of a team is **communication**.',
     experiences: [
         {
-            position: 'Lead Developer',
-            company: 'ACME',
-            location: 'Remote',
-            time: '2017 - current',
-            description: 'Lorem ipsum dolor sit amet, consectetur **adipiscing** elit. Sed dapibus hendrerit fringilla. Nam sit amet felis vel velit aliquam rhoncus porttitor eu erat. Aenean volutpat porttitor hendrerit. Cras sodales magna lobortis mauris accumsan, non efficitur ligula varius. Sed tellus eros, iaculis non tempus ac, porttitor id velit. Vivamus felis mauris, pretium mollis turpis sit amet, vulputate vestibulum purus. Nulla ac eleifend nulla. Curabitur vitae velit ante.',
+            position: 'Frontend Engineer',
+            company: 'Framework Science',
+            location: 'Tijuana, Baja California, Mexico',
+            time: '2021 - current',
+            description: '',
             technologies: [
-                'RoR',
-                'React'
-            ]
-        },
-        {
-            position: 'Software Developer',
-            company: 'ACME',
-            location: 'Remote',
-            time: '2016 - 2017',
-            description: 'Lorem ipsum dolor sit amet, consectetur **adipiscing** elit. Sed dapibus hendrerit fringilla. Nam sit amet felis vel velit aliquam rhoncus porttitor eu erat. Aenean volutpat porttitor hendrerit. Cras sodales magna lobortis mauris accumsan, non efficitur ligula varius. Sed tellus eros, iaculis non tempus ac, porttitor id velit. Vivamus felis mauris, pretium mollis turpis sit amet, vulputate vestibulum purus. Nulla ac eleifend nulla. Curabitur vitae velit ante.',
-            technologies: [
-                'RoR',
-                'React'
-            ]
-        },
-        {
-            position: 'Software Developer',
-            company: 'Company',
-            location: 'Mexico',
-            time: '2013 - 2016',
-            description: 'Lorem ipsum dolor sit amet, consectetur **adipiscing** elit. Sed dapibus hendrerit fringilla. Nam sit amet felis vel velit aliquam rhoncus porttitor eu erat. Aenean volutpat porttitor hendrerit. Cras sodales magna lobortis mauris accumsan, non efficitur ligula varius. Sed tellus eros, iaculis non tempus ac, porttitor id velit. Vivamus felis mauris, pretium mollis turpis sit amet, vulputate vestibulum purus. Nulla ac eleifend nulla. Curabitur vitae velit ante.',
-            technologies: [
-                'RoR',
                 'React',
-                'Java',
-                'PHP'
+                'Redux',
+                'JavaScript',
+                'TypeScript',
+            ]
+        },
+        {
+            position: 'Frontend Developer',
+            company: 'Guaostudio',
+            location: 'Zapopan, Jalisco, Mexico',
+            time: '2021 - 2021',
+            description: '',
+            technologies: [
+                'React',
+                'JavaScript',
+                'TypeScript',
+                'Next.js',
+            ]
+        },
+        {
+            position: 'Software Engineer',
+            company: 'Culto al Perro Café',
+            location: 'Hermosillo, Sonora, Mexico',
+            time: '2019 - 2021',
+            description: 'As a **Software Engineer** I worked closely with designers, project managers to create applications',
+            technologies: [
+                'React',
+                'Node',
+                'Redux',
+                'JavaScript',
+                'PostgreSQL',
             ]
         }
     ],
@@ -50,24 +55,24 @@ const resume = {
     skills: [
         {
             name: 'React',
-            value: 70
+            value: 100
         },
         {
             name: 'JavaScript',
-            value: 80
+            value: 100
+        },
+        {
+            name: 'HTML',
+            value: 100
         },
         {
             name: 'CSS',
-            value: 50
-        },
-        {
-            name: 'JVM',
             value: 100
         },
         {
-            name: 'Ruby & RoR',
-            value: 100
-        }
+            name: 'TypeScript',
+            value: 75
+        },
     ]
 }
 

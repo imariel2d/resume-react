@@ -1,23 +1,22 @@
 const developer = {
     profile: {
-        name: 'Developer Name',
-        tagline: 'Full Stack Developer'
+        name: 'Ariel Plascencia',
+        tagline: 'Software Engineer'
     },
     contact: {
-        email: 'info@otfusion.org',
-        phone: '+12345787222',
+        email: 'imariel2d@gmail.com',
+        phone: '+6624270399',
         website: {
-            name: 'jmsalcido.dev',
-            url: 'https://jmsalcido.dev'
+            name: 'imariel2d.dev',
+            url: 'https://imariel2d.dev'
         },
-        linkedin: 'jmsalcido',
-        github: 'jmsalcido',
-        twitter: 'jmsalcido'
+        linkedin: 'arielplascencia',
+        github: 'imariel2d',
     },
     education: [{
         degree: 'Software Engineering',
-        school: 'School Name',
-        time: '2009-2013'
+        school: "Hermosillo's Institute of Technology",
+        time: '2016-2020'
     }],
     languages: [{
             name: 'Spanish',
@@ -29,13 +28,11 @@ const developer = {
         }
     ],
     interests: [
-        'Composing Music',
-        'Baking',
-        'Cooking',
-        'Running',
-        'Podcasting',
+        'Bots',
+        'Teaching',
         'Videogames',
-        'Creating stuff'
+        'Card tricks',
+        'Web development'
     ]
 }
 
