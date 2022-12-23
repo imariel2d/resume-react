@@ -56,7 +56,7 @@ const resume = {
             {
                 name: '😸 Dailycat',
                 url: 'https://github.com/tepachelabs/dailycat.api',
-                description: 'An auto-dailypost of cats with an inspirational quotes'
+                description: 'An auto-dailypost of cats with and inspirational quotes'
             },
         ]
     },
